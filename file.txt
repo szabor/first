@@ -2,4 +2,8 @@
 blah blah
 new line
 other line
+<<<<<<< HEAD
+now adding another new line
+=======
 fourth line, third commit
+>>>>>>> newBranch
